@@ -1,16 +1,16 @@
 ---
 title: 'WeAreAllHodlonaut'
-summary: 'Zeus is an open-source, non-custodial Bitcoin wallet that gives you full control over how you make payments.'
-nym: 'Evan Kaloudis'
-website: 'https://zeusln.app/'
-coverImage: '/img/project/zeus.png'
-git: 'https://github.com/ZeusLN/zeus'
-twitter: 'ZeusLN'
-personalTwitter: 'evankaloudis'
-type: 'Wallet'
-zaprite: 'WhOWcKFUiFHFMVqaBhLD'
+summary: 'A community campaign to fundraise for legal fees and support freedom.'
+nym: 'Defending BTC'
+website: 'https://defendingbtc.com/'
+coverImage: '/User/mills/Documents/hodlonaut/Profile_03.png'
+git: 
+twitter: 'defendingBTC'
+personalTwitter: 'specificmills'
+type: 'fundraising campaign'
+zaprite: 
 ---
 
 ## About this project
 
-Zeus lets you take lightning on the go and provides a best in class experience for full node operators running LND, c-lightning, or Eclair. Manage your channels, send and receive on-chain and LN transactions, or manage your routing strategy right in your pocket. Tor is built in to allow you to connect home securely to your node’s hidden services with minimal hassle.
+Hodlonaut has faced very costly legal action from Craig Wright for more than three years, starting when Wright’s legal team DMed the Lightning Torch founder back in March 2019, following a series of tweets in which Hodlonaut claimed, among other things, that Craig Wright was not Satoshi Nakamoto.
